@@ -7,7 +7,7 @@
 .container {
 	width: 100%;
 	height: 109vh;
-	background: linear-gradient(170deg, #1fa08b, #c29f14);
+	background: linear-gradient(170deg, #e3bc0f, #c22460);
 	padding: 10px;
 }
 .agenda {
@@ -25,8 +25,8 @@
 	/* align-items: center; */
 	justify-content: center;
 	margin-bottom: 20px;
-	text-decoration: underline;
-	text-decoration-color: #ff5545;
+	/* text-decoration: underline;
+	text-decoration-color: #ff5545; */
 	text-decoration-thickness: 6px;
 }
 
